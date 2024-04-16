@@ -1,1 +1,0 @@
-/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/laba1.dir/laba1_autogen/mocs_compilation.cpp.o CMakeFiles/laba1.dir/main.cpp.o CMakeFiles/laba1.dir/mainwindow.cpp.o CMakeFiles/laba1.dir/punk1.cpp.o CMakeFiles/laba1.dir/.cpp.o CMakeFiles/laba1.dir/dialog.cpp.o -o laba1  /usr/lib64/libQt5Widgets.so.5.15.12 /usr/lib64/libQt5Gui.so.5.15.12 /usr/lib64/libQt5Core.so.5.15.12 
