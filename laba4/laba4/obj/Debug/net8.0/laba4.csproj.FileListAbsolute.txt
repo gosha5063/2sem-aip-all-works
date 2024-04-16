@@ -1,0 +1,14 @@
+/home/user5063/study/laba4/laba4/bin/Debug/net8.0/laba4
+/home/user5063/study/laba4/laba4/bin/Debug/net8.0/laba4.deps.json
+/home/user5063/study/laba4/laba4/bin/Debug/net8.0/laba4.runtimeconfig.json
+/home/user5063/study/laba4/laba4/bin/Debug/net8.0/laba4.dll
+/home/user5063/study/laba4/laba4/bin/Debug/net8.0/laba4.pdb
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.GeneratedMSBuildEditorConfig.editorconfig
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.AssemblyInfoInputs.cache
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.AssemblyInfo.cs
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.csproj.CoreCompileInputs.cache
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.dll
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/refint/laba4.dll
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.pdb
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/laba4.genruntimeconfig.cache
+/home/user5063/study/laba4/laba4/obj/Debug/net8.0/ref/laba4.dll

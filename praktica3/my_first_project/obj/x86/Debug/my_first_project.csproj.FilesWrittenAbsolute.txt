@@ -1,0 +1,12 @@
+/home/user5063/study/my_first_project/my_first_project/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user5063/study/my_first_project/my_first_project/obj/x86/Debug/my_first_project.gtk-gui.gui.stetic
+/home/user5063/study/my_first_project/my_first_project/bin/Debug/my_first_project.exe.mdb
+/home/user5063/study/my_first_project/my_first_project/bin/Debug/my_first_project.exe
+/home/user5063/study/my_first_project/my_first_project/obj/x86/Debug/my_first_project.exe
+/home/user5063/study/my_first_project/my_first_project/obj/x86/Debug/my_first_project.exe.mdb
+/home/user5063/study/praktica3/my_first_project/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user5063/study/praktica3/my_first_project/obj/x86/Debug/my_first_project.gtk-gui.gui.stetic
+/home/user5063/study/praktica3/my_first_project/bin/Debug/my_first_project.exe.mdb
+/home/user5063/study/praktica3/my_first_project/bin/Debug/my_first_project.exe
+/home/user5063/study/praktica3/my_first_project/obj/x86/Debug/my_first_project.exe
+/home/user5063/study/praktica3/my_first_project/obj/x86/Debug/my_first_project.exe.mdb

@@ -1,0 +1,14 @@
+/home/user5063/study/laba4/lab$_2/bin/Debug/net8.0/lab$_2
+/home/user5063/study/laba4/lab$_2/bin/Debug/net8.0/lab$_2.deps.json
+/home/user5063/study/laba4/lab$_2/bin/Debug/net8.0/lab$_2.runtimeconfig.json
+/home/user5063/study/laba4/lab$_2/bin/Debug/net8.0/lab$_2.dll
+/home/user5063/study/laba4/lab$_2/bin/Debug/net8.0/lab$_2.pdb
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.AssemblyInfoInputs.cache
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.AssemblyInfo.cs
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.csproj.CoreCompileInputs.cache
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.dll
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/refint/lab$_2.dll
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.pdb
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/lab$_2.genruntimeconfig.cache
+/home/user5063/study/laba4/lab$_2/obj/Debug/net8.0/ref/lab$_2.dll

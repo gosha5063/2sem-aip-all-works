@@ -1,0 +1,12 @@
+/home/user5063/laba5/laba5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user5063/laba5/laba5/obj/x86/Debug/laba5.gtk-gui.gui.stetic
+/home/user5063/laba5/laba5/bin/Debug/laba5.exe.mdb
+/home/user5063/laba5/laba5/bin/Debug/laba5.exe
+/home/user5063/laba5/laba5/obj/x86/Debug/laba5.exe
+/home/user5063/laba5/laba5/obj/x86/Debug/laba5.exe.mdb
+/home/user5063/study/laba5/laba5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user5063/study/laba5/laba5/obj/x86/Debug/laba5.gtk-gui.gui.stetic
+/home/user5063/study/laba5/laba5/bin/Debug/laba5.exe.mdb
+/home/user5063/study/laba5/laba5/bin/Debug/laba5.exe
+/home/user5063/study/laba5/laba5/obj/x86/Debug/laba5.exe
+/home/user5063/study/laba5/laba5/obj/x86/Debug/laba5.exe.mdb
