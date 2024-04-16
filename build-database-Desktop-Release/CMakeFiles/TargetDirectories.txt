@@ -1,0 +1,8 @@
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/database.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/edit_cache.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/rebuild_cache.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/list_install_components.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/install.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/install/local.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/install/strip.dir
+/home/user5063/study/build-database-Desktop-Release/CMakeFiles/database_autogen.dir
