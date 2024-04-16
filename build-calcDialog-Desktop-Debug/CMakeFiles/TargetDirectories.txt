@@ -1,8 +1,0 @@
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/calcDialog.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/install.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/install/local.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/install/strip.dir
-/home/user5063/study/build-calcDialog-Desktop-Debug/CMakeFiles/calcDialog_autogen.dir
